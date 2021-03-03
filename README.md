@@ -1,8 +1,8 @@
-# Hi, I'm SimDdong :cat:
+# Hi, I'm SimDdong 🖱️
 
 ✨ I'm interested in ElasticSearch, Docker & Kubernetes, NodeJS & Vue, Flutter, Python ✨
 
-:two_hearts: I like :cat: :two_hearts:
+💕 I like cat! 🐈 💕
 
 # Open Source Project
 
@@ -20,18 +20,18 @@ Github: [Go to view](https://github.com/sdg9670)
 
 My career is on the website below.
 
-:rocket: [Go to view](https://www.rocketpunch.com/@sdg9670f15008f9)
+🚀 [Go to view](https://www.rocketpunch.com/@sdg9670f15008f9)
 
 # Blog
 
-I'm running a tech blog. :hatched_chick:
+I'm running a tech blog. 🐣
 
-If you are interested, please come and view and discuss. :smile:
+If you are interested, please come and view and discuss. 😊
 
-:rocket: [Go to view](https://sdg9670.github.io)
+🚀 [Go to view](https://sdg9670.github.io)
 
 # Email
 
 My Email is [sdg9670@naver.com](mailto:sdg9670@naver.com).
 
-Any dialogue related to programming is welcome.
+Any dialogue related to programming is welcome. ⭐
