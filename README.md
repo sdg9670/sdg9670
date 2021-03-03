@@ -16,11 +16,11 @@ If you are interested, please come and view and discuss. :smile:
 
 Github: [Go to view](https://github.com/sdg9670)
 
-## [express-v-router](https://github.com/sdg9670/express-v-router)
-It is a router that can be versioned using url path in express.
+- [express-v-router](https://github.com/sdg9670/express-v-router)
+> It is a router that can be versioned using url path in express.
 
-## [docker-pgbadger](https://github.com/sdg9670/docker-pgbadger)
-The pgbadger is a docker image. It can run silply.
+- [docker-pgbadger](https://github.com/sdg9670/docker-pgbadger)
+> The pgbadger is a docker image. It can run silply.
 
 # My Career
 
